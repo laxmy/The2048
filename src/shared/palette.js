@@ -1,0 +1,16 @@
+export const SquarePalette = {
+    2: '#fdf8e6',
+    4: '#fbedc2',
+    8: '#f8e199',
+    16: '#f5d470',
+    32: '#f3cb51',
+    64: '#f1c232',
+    128: '#efbc2d',
+    256: '#edb426',
+    512: '#ebac1f',
+    1024: '#e79f13',
+    0: '#fff4e2',
+    'contrastDefaultLightColor': '#ffffff',
+    A700: '#ffd896',
+    'contrastDefaultColor': '#93A8AC',
+};
